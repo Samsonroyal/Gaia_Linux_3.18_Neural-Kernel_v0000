@@ -1,0 +1,37 @@
+WHAT WE NEED:
+============
+														  ---------------
+	----------											 | - Mind		 |
+   |Bootloader|----------					     ------->| - AI_Engine   |	
+	----------			 |						|		 | Consciousness |
+		a) video driver	 |		  --------	   	|		  ---------------
+						  ------>| Kernel |-----
+						  		  --------	
+									a) video driver
+									b) sound driver
+									c) keyboard driver
+									d) harddisk driver
+									e) memory driver
+									f) and other board/processor specific code
+
+1)	Remove all unwanted code, some of which appears in warnings.
+2)	Atleast remove one folder of either an unwanted/unnecessary driver or
+	filesystem.
+3)	Break the entire networking layer of the kernel, removing all "net" folders 
+	and files plus all unwanted related code. AI requires no internet, for now.
+4)	Make the kernel as bare as possible by removing all unstandard features,
+	we'll have to look into those way later. ;-)
+	
+NOTE:
+	This servers as a groomer on what the entire project is all about.
+	This is specifically the right place to start as the actual kernel
+	is so complex to thinking itself.
+	
+	1) This in C		(Systems Programmer)			Plain Kernel/OS system
+	2) Second in C++	(Neural-Computer scientist)		Artificial System
+	3) Third in sCpeL	(God Mode)						Electronic Mind/
+														Consciousness
+	
+						;-)
+						Bare my arrogance ...
+						~ Emmasson

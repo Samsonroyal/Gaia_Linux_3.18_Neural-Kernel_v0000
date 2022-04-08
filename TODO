@@ -1,0 +1,29 @@
+This onll focuses on 32 bit
+
+run:
+	build.sh
+		To build kernel and initrd then a bootable qemu disk
+	
+	make config
+		For a custom configuration then *make* to build the kernel
+	
+	make defconfig
+		For an x86 default configuration then *make*
+		
+NOTE:
+	This is the intoductory source of the neural kernel, as its structure is
+	somewhat so complicated si this serves to introduce folks on kernel design
+	as the second version will entirely be in C++ then the third in scpel (complete)
+	Also not this source tree lacks any facet of AI code as is intended to lure more
+	People to OSCA.
+	
+	I have not made available yet, a complete Neural kernel as I  wish not to
+	alianate newbies from contibuting to AI as its better to first learn the standard
+	structure.
+	
+	for any queries:
+		phrunsys.scpel.256.ug@gmail.com
+		+256 702651600 (NO calls, Whatsapp/Telegram)
+		
+~ Emmasson	
+  Now is the time to jump on, before its too late, ohh too complex is the term.
