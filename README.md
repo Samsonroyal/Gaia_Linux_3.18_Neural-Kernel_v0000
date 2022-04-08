@@ -45,5 +45,5 @@ The human brain:
                                                                          
                                                                          
                                                                          
-                                      ~ Phrunsys Emmason ~
+                                      ~ Phrunsys Emmasson ~
                                             Peace 
