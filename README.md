@@ -2,6 +2,7 @@
 A whole implementation of the nervous system. To be employed on all devices.
 This project aims to implement a fully functional Artificial intelligence engine
 that is seif hosted solely on a computer system.
+
      _____________
     |             |
     | Boot Loader |<---------.
@@ -18,7 +19,8 @@ that is seif hosted solely on a computer system.
                                                                 | |             | |        | |_________| |
                                                                 | |_____________| |        |_____________|
                                                                 |                 | 
-                                                                 ----------------
+                                                                |_________________|
+                                                                
 As the human brain/mind executes tightly with its content/memories,
 its thus in order to follow the same structure while implementing 
 intelligent systems.
