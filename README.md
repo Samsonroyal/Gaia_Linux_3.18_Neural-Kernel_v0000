@@ -1,7 +1,7 @@
 # Gaiar-Neural-Kernel-Linux-3.18-0000
-A whole implementation of the nervous system. To be employed on all devices.
+An entire implementation of the nervous system to be deployed on all devices.
 This project aims to implement a fully functional Artificial intelligence engine
-that is seif hosted solely on a computer system.
+that is self hosted solely on a stand-alone computer system.
 
      _____________
     |             |
@@ -19,20 +19,21 @@ that is seif hosted solely on a computer system.
                                                                 | |             | |        | |_________| |
                                                                 | |_____________| |        |_____________|
                                                                 |                 | 
-                                                                |_________________|
-                                                                
+                                                                 ----------------
 As the human brain/mind executes tightly with its content/memories,
-its thus in order to follow the same structure while implementing 
+it's thus in order to follow the same structure while implementing
 intelligent systems.
 The human brain:
+
+
      1) Brain matter (Hardware interfaces)
      2) Mind (Software and Kernel)
           a) Subconsciousness (Kernel)
           b) Consciousness (Realtime OS)
           
-   The main aim of this neural kernel is to simulate steps 1, 2 and partially 3, Please note step 4
+   The main aim of this neural kernel is to simulate steps 1, 2 and partially 2(a), Please note step 2(b)
    is targeting init as is the first program to run on linux and is to be made available prior version 
-   4 of the neural kernel. Step 4 can only be implemented in scpel.
+   2(b) of the neural kernel. Step 2(b) can only be implemented in scpel.
           
           1.                      
      ___________                           2.                                    3.
